@@ -1,0 +1,7 @@
+[24-Apr-2021 18:00:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ucmegzls/public_html/demo/faridabad/index.php on line 995
+[24-Apr-2021 18:01:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ucmegzls/public_html/demo/faridabad/index.php on line 995
+[24-Apr-2021 18:01:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ucmegzls/public_html/demo/faridabad/index.php on line 995
+[24-Apr-2021 18:03:25 UTC] PHP Warning:  Use of undefined constant close - assumed 'close' (this will throw an Error in a future version of PHP) in /home/ucmegzls/public_html/demo/faridabad/index.php on line 997
+[24-Apr-2021 18:03:30 UTC] PHP Warning:  Use of undefined constant close - assumed 'close' (this will throw an Error in a future version of PHP) in /home/ucmegzls/public_html/demo/faridabad/index.php on line 997
+[24-Apr-2021 18:11:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ucmegzls/public_html/demo/faridabad/index.php on line 10
+[24-Apr-2021 18:11:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ucmegzls/public_html/demo/faridabad/index.php on line 10
