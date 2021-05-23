@@ -5,5 +5,5 @@ app.get("/", (req,res)=>{
     res.send("Working");
 })
 
-app.listen(pricess.env.PORT || 3000)
+app.listen(process.env.PORT || 3000)
 module.exports = app
